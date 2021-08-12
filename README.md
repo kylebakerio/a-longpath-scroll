@@ -6,6 +6,9 @@ https://scroll-along-path.glitch.me/
 
 # Idea
 [Robbie Green](https://robbiegreen.com/hq/)
+
 [Kfarr](https://github.com/kfarr)
-Other source:
+
+Also see:
+
 [developed concept example in THREE](https://codepen.io/motionharvest/pen/WNQYJyM)
