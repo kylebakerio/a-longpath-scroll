@@ -11,12 +11,10 @@ AFRAME.registerComponent('alongpath-scroll', {
     console.log("init")
     this.curve = document.querySelector(this.data.curve);
     document.addEventListener('scroll', (e) => {
-      console.log("scroll")
       this.onscroll()
     })
   },
   onscroll() {
-    console.log("doing scroll thing",this._get_scroll_percentage())
     const newPos = this.curve.components['curve'].curve.getPoint(this._get_scroll_percentage())
     this.el.setAttribute('position', newPos);
   },
