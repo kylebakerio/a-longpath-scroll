@@ -2,7 +2,7 @@
 component for making an `a-entity` follow a path according to page scroll percent
 
 # Demo:
-https://scroll-along-path.glitch.me/
+https://a-longpath-scroll.glitch.me/
 
 # Sources
 - Built in response to question by [Robbie Green](https://robbiegreen.com/hq/)
