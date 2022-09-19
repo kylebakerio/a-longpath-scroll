@@ -1,4 +1,4 @@
-# alongpath-scroll
+# a-longpath-scroll
 component for making an `a-entity` follow a path according to page scroll percent
 
 # Demo:
